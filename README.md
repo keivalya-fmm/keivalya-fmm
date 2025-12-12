@@ -3,7 +3,6 @@
 🌱 **Reinforcement Learning Intern**  
 💻 **Python • AI/ML • Software Development**  
 🎵 **Flute player**  
-🌐 [Portfolio: keivalya.com](https://keivalya.com)
 
 ---
 
